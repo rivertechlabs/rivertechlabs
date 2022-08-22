@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rivertechlabs or Jess!
 - 👀 I’m interested in rivers, open and/or participatory science, kayaking, kombucha, Taylor Swift, books, and plants
-- 🌱 I’m currently learning C/C++, git, and how to program my ESP32
+- 🌱 I’m currently learning C/C++
 - 📫 You can reach me at jess@rivertechjess.com or follow my turbidity project at https://rivertechlabs.org/
